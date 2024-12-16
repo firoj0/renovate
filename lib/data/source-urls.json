@@ -4,7 +4,7 @@
     "cypress-io/cypress": "https://github.com/cypress-io/circleci-orb",
     "hutson/library-release-workflows": "https://github.com/hyper-expanse/library-release-workflows"
   },
-  "docker": {
+  "docker": {ccc
     "amd64/registry": "https://github.com/distribution/distribution",
     "amd64/traefik": "https://github.com/containous/traefik",
     "confluentinc/ksqldb-cli": "https://github.com/confluentinc/ksql",
